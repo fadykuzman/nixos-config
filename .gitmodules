@@ -1,0 +1,3 @@
+[submodule "programs"]
+	path = programs
+	url = git@github.com:fadykuzman/home-manager-programs.git
